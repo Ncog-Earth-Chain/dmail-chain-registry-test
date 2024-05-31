@@ -1,0 +1,18 @@
+{
+    "name": "NCOG Earth Chain Test Net",
+    "rpc": ["https://api-test.ncogchain.earth/"],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "Currency Name",
+      "symbol": "NEC"
+    },
+    "chainId": 2528,
+    "rpc_url" : "https://api-test.ncogchain.earth" , 
+    "explorers": [
+      {
+        "name": "ncogchain",
+        "url": "https://bs-explorer.ncogchain.earth",
+        "standard": "Update"
+      }
+    ]
+  }
