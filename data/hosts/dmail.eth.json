@@ -1,0 +1,6 @@
+{
+    "host": "dmail.eth",
+    "domain": ["https://web3Emailss.com/"],
+    "chainId": 11155111,
+    "contractAddress" :"0x57fCA9bf34FCAE42b2b3753E8930db3e06DDe495"
+}
