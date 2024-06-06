@@ -1,0 +1,6 @@
+{
+    "host": "ait.bnb",
+    "domain": ["https://ait.bnb.com/"],
+    "chainId": 97,
+    "contractAddress" :"0xc27e240493848fe6d48ACC41bCf73bB4F658C8C7"
+}
