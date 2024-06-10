@@ -1,0 +1,6 @@
+{
+    "host": "ait.test",
+    "domain": ["https://web3Emails.com/"],
+    "chainId": 2528,
+    "contractAddress" :"0xfC07793eE43aa5E749dE8e6Be99e336AEDC969ab"
+}
