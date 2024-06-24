@@ -1,0 +1,6 @@
+{
+    "host": "ncog.earth1",
+    "domain": ["https://test.com/"],
+    "chainId": 2528,
+    "contractAddress" :"0x52e28D462795117A46F5AE56fb0a117663E8046d"
+}
