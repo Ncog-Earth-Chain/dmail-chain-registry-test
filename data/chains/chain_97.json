@@ -1,0 +1,18 @@
+{
+    "name": "BNB Chain Testnet",
+    "rpc": ["https://data-seed-prebsc-1-s1.binance.org:8545/"],
+    "faucets": [],
+    "nativeCurrency": {
+      "name": "Currency Name",
+      "symbol": "tBNB"
+    },
+    "chainId": 97,
+    "rpc_url" : "https://data-seed-prebsc-1-s1.binance.org:8545/" , 
+    "explorers": [
+      {
+        "name": "binance ",
+        "url": "https://testnet.bscscan.com",
+        "standard": "none"
+      }
+    ]
+  }
