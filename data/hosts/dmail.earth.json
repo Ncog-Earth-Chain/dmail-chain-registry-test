@@ -1,0 +1,6 @@
+{
+    "host": "dmail.earth",
+    "domain": ["https://web3Emails.com/"],
+    "chainId": 2528,
+    "contractAddress" :"0x3c130a8bC0542DE3806dEC43DcfADCd340704E9e"
+}
