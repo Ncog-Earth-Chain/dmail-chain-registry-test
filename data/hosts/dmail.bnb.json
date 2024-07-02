@@ -1,0 +1,6 @@
+{
+    "host": "dmail.bnb",
+    "domain": ["https://dmailbnb.com/"],
+    "chainId": 97,
+    "contractAddress" :"0x2647BA06F3618A8B39F8Ffc99bdf1ABeA265cf77"
+}
